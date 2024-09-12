@@ -3,3 +3,4 @@ Llama3.1-8B-Instruct-hf/
 db/
 key.py
 __pycache__/
+finetuned_lora/

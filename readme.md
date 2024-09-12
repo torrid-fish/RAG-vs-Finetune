@@ -54,7 +54,7 @@ One can see that using RAG can improve the accuracy up to 71%, which is higher t
 ![](/img/result.png)
 
 - `finetuned_{ckpt}`
-Here I use `200`/`400` as the checkpoint number.
+Here I use `200`/`400` as the checkpoint number
 - `RAG_{embedding_model}`
 Here I use openai(`text-embedding-3-small`)/huggingface(`all-MiniLM-L6-v2`)
 

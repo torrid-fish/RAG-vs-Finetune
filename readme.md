@@ -17,7 +17,7 @@ The data I used is [**道路交通安全規則**](https://law.moj.gov.tw/LawClas
 The raw data is not suitable for training, so I use `gpt-4o` to generate synthetic data for training and testing. The prompt I use can be found in `generate_data.ipynb`.
 
 > [!warning]
-> To use OpenAI API, create a file `key.py` and past your key as below:
+> To use OpenAI API, create a file `key.py` and paste your key as below:
 > ```
 > API_KEY = {your_api_key}
 > ```

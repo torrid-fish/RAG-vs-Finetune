@@ -72,3 +72,9 @@ python gradio/blind_test.py
 ```
 
 ![](img/blind_test.png)
+
+## Reference
+- [RAG Example](https://github.com/wsxqaza12/RAG_example):
+The impelmentation of RAG is basically based on the repo above.
+- [OpenAI embedding model](https://platform.openai.com/docs/guides/embeddings): `text-embedding-3-small`
+- [Huggingface embedding model](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2): `all-MiniLM-L6-v2`

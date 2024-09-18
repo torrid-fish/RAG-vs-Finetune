@@ -1,5 +1,4 @@
-# RAG (Retrieval-Augmented Generation) Experiment
-
+# RAG (Retrieval-Augmented Generation) versus Finetune
 This is a small experiment on RAG versus finetuning. I use a domain-specified data to compare the benefits brought by RAG and finetuning.
 
 ## Environment
